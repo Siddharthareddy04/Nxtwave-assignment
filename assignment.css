@@ -1,0 +1,37 @@
+
+.heading {
+    font-family:"Roboto";
+}
+#timer {
+    font-size: 30px;
+}
+.buttons {
+    align-items: center;
+    font-size: 23px;
+    font-family: "Roboto";
+}
+.start {
+    background-color: green;
+    height: 30px;
+    width: 80px;
+}
+.pause {
+    background-color: yellow;
+    height: 30px;
+    width: 80px;
+}
+.reset {
+    background-color: grey;
+    height: 30px;
+    width: 80px;
+}
+.shortbreak {
+    background-color: blue;
+    height: 30px;
+    width: 120px;
+}
+.longbreak {
+    background-color: brown;
+    height: 30px;
+    width: 120px;
+}
