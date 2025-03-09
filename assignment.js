@@ -18,6 +18,7 @@ function startTimer() {
             } else {
                 clearInterval(timerInterval);
                 running = false;
+                alert("CountDown Zero");
             }
         }, 1000);
     }
